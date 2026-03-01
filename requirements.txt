@@ -1,0 +1,14 @@
+# Micro QA — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Web UI Framework ──────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── Data Handling ─────────────────────────────────────────────────────────────
+pandas>=2.0.0
+
+# ── Interactive Charts / Control Charts ───────────────────────────────────────
+plotly>=5.18.0
+
+# ── TRS-398 Calibration (pylinac) ─────────────────────────────────────────────
+pylinac>=3.20.0
